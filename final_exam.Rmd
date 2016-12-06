@@ -1,0 +1,10 @@
+---
+title: "exam_answers"
+author: "Katherine McAuley"
+date: "December 6, 2016"
+output: word_document
+---
+#Results Paragraph
+
+I examined the extent to which agreeablesness predicts job performance, and more specifically whether it predicts academic success above and beyond conscientiousness, see Table 1. Conscientiousness alone predicted 7% of the variance in academic success, R2=.07, *CI*[.05,.09]. Agreeableness accounted for an additional 17%,  $sr^2$=.17,*CI*[.14,.19], of the variance in job performance ratings beyond conscientiousness alone bringing the total percentage variance accounted for to 24%, $R^2$=.24, *CI*[.21,.26]. I then examined the extent to which this relation holds for each gender. When looking specifically at males, conscientiousness alone predicted 9% of the variance in academic success, R2=.09, *CI*[.05,.12]. Agreeableness accounted for an additional 18%,  $sr^2$=.18,*CI*[.14,.23], of the variance in job performance ratings beyond conscientiousness alone bringing the total percentage variance accounted for to 27%, $R^2$=.27, *CI*[.22,.31], see Table 3. In contrast when looking specifically at females, conscientiousness alone predicted 6% of the variance in academic success, R2=.06, *CI*[.04,.08]. Agreeableness accounted for an additional 15%,  $sr^2$=.15,*CI*[.12,.18], of the variance in job performance ratings beyond conscientiousness alone bringing the total percentage variance accounted for to 20%, $R^2$=.20, *CI*[.17,.23], see Table 4. These results suggest that agreeableness and conscientiousness account for the total variance in job performance more so in males than for females. However, the amount that agreeableness accounted for variance above and beyond conscientiousness does not show much difference between males and females. 
+
